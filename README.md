@@ -14,3 +14,4 @@ $ npm install -g @angular/cli @angular/cdk
 |ng build|ビルドの自動化  |
 |ng serve|ビルドから実行・表示までの自動化  |
 |ng test|単体テストの実施から結果出力までの自動化  |
+|ng generate component <コンポーネント名>|コンポーネントの作成|
